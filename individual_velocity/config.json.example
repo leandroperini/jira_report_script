@@ -1,0 +1,10 @@
+{
+  "user": 'my.jira-user',
+  "password": 'my.user-password',
+  "jira_url": "",
+  "board_id": "1196",
+  "period_months": 6,
+  "members_to_analyse":[
+    "user.name"
+  ]
+}

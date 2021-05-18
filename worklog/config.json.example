@@ -1,0 +1,13 @@
+{
+  "user": 'my.jira-user',
+  "password": 'my.user-password',
+  "jira_url": "",
+  "period": {
+    "start": "2021-05-03",
+    "end": "2021-05-14"
+  },
+  "status_to_analyze": ['IN PROGRESS', 'TESTING'],
+  "members_to_analyse":[
+    "jira_user.name"
+  ]
+}
